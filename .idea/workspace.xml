@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40c739ed-4b78-4ed0-9c36-6f89891e7e0e" name="Default Changelist" comment="finished chapter 1">
-      <change afterPath="$PROJECT_DIR$/app/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Flask-Mega-Main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Flask-Mega-Main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.py" afterDir="false" />
-    </list>
+    <list default="true" id="40c739ed-4b78-4ed0-9c36-6f89891e7e0e" name="Default Changelist" comment="finished chapter 2 - Templates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629825822035</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finished chapter 2 - Templates">
+      <created>1630099915094</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630099915094</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +85,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added files" />
     <MESSAGE value="finished chapter 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished chapter 1" />
+    <MESSAGE value="finished chapter 2 - Templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished chapter 2 - Templates" />
   </component>
 </project>
